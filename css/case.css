@@ -1,3 +1,7 @@
+body {
+  background-color: #fff;
+}
+
 .case-panel {
   margin: 30px auto;
 }
@@ -47,7 +51,7 @@
 }
 
 .case-item {
-  margin-top: 50px;
+  margin: 80px auto;
 }
 
 .case-item-title {
@@ -63,10 +67,18 @@
   margin: 0 auto 15px;
   font-family: PingFangSC-Regular;
   font-size: 14px;
-  color: #9B9B9B;
+  color: #9b9b9b;
   letter-spacing: 0;
   line-height: 25px;
 }
 
 .case-item-img {
+  display: block;
+  width: 100%;
+  margin: 60px auto;
+}
+
+.case-item-icon {
+  margin: 50px auto;
+  text-align: center;
 }

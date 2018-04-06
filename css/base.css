@@ -332,7 +332,7 @@ div.input .input-content input,div.input .input-content select{
 /*底部公共部分*/
 #footer{
 	width: 1280px;
-	padding:60px 0;
+	margin: 60px auto;
 }
 .footer-nav{
 	font-size: 16px;
