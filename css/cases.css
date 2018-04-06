@@ -1,0 +1,59 @@
+#cases_header .banner{
+	/*position: relative;
+	background: url('../images/banner_cases.jpg') no-repeat;
+	background-position: center top;
+	background-size: 1920px auto;
+	background-attachment: fixed;*/
+}
+#cases_content{
+	padding-top: 60px;
+}
+.cases_content-info1{
+	width: 770px;
+	margin-bottom: 100px;
+}
+.cases_content-info1{
+	font-size: 28px;
+	line-height: 1.67;
+	color: #333333;
+}
+.case_list-nav{
+	width: 310px;
+	color: #999;
+}
+.case_list-nav ul{
+	/*float: left;*/
+	/*margin: 0 auto;*/
+}
+.case_list-nav ul li{
+	float: left;
+	margin: 0 20px;
+	cursor: pointer;
+}
+.case_list-nav ul li.current{
+	color: #333;
+}
+#cases_content #case_list{
+	margin-top: 60px;
+}
+
+
+@media only screen and (max-width: 1000px){
+	#cases_content{
+		/*padding: 40px;*/
+	}
+	.cases_content-info1{
+		display: none;
+	}
+	#cases_content #case_list{
+		margin-top: 40px;
+	}
+	
+	.case_list-nav{
+		width: 230px;
+	}
+	.case_list-nav ul li{
+		margin: 0 10px;
+	}
+
+}

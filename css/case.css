@@ -1,0 +1,72 @@
+.case-panel {
+  margin: 30px auto;
+}
+
+.case-header {
+  width: 1100px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #D6D6D6;
+}
+
+.case-title {
+
+}
+
+.case-title-left {
+  float: left;
+  font-size: 24px;
+  font-family: Helvetica;
+  color: #666;
+}
+
+.case-title-right {
+  float: right;
+  font-family: PingFangSC-Regular;
+  font-size: 18px;
+  color: #666666;
+  text-align: right;
+}
+
+.case-title-sub {
+  margin-top: 10px;
+}
+
+.case-title-sub h1 {
+  font-family: PingFangSC-Light;
+  font-size: 40px;
+  color: #333333;
+  margin-bottom: 8px;
+}
+
+.case-title-sub p {
+  font-family: PingFangSC-Light;
+  font-size: 25px;
+  color: #9b9b9b;
+  line-height: 35px;
+}
+
+.case-item {
+  margin-top: 50px;
+}
+
+.case-item-title {
+  font-family: PingFangSC-Light;
+  font-size: 36px;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.case-item-desc {
+  width: 900px;
+  margin: 0 auto 15px;
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: #9B9B9B;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.case-item-img {
+}

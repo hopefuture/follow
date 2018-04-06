@@ -1,0 +1,64 @@
+#about_header .banner{
+
+}
+
+#about_content{
+	padding-top: 60px;
+	/*border: 1px solid #*/
+}
+.about-info1,.about-info2{
+	width: 770px;
+}
+.about-info1{
+	font-size: 14px;
+	line-height: 1.79;
+	color: #666;
+	margin-bottom: 20px;
+}
+.about-info2{
+	font-size: 28px;
+	line-height: 1.67;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.about-info3{
+	width: 770px;
+	font-size: 20px;
+	margin: 100px auto;
+}
+.about-workspace{
+	width: 780px;
+	margin: 60px auto;
+}
+.about-workspace img{
+	width: 100%;
+}
+
+.about-map{
+	width: 1440px;
+	margin-top: 100px;
+}
+@media only screen and (max-width:480px){
+	.about-info1, .about-info2,.about-workspace{
+		/*padding: 0 40px;*/
+		width: 300px;
+	}
+}
+@media only screen and (min-width: 481px) and (max-width:800px){
+	.about-info1, .about-info2,.about-workspace{
+		/*padding: 0 40px;*/
+		width: 430px;
+	}
+}
+@media only screen and (min-width: 801px) and (max-width:1000px){
+	.about-info1, .about-info2,.about-workspace{
+		/*padding: 0 40px;*/
+		width: 600px;
+	}
+}
+@media only screen and (min-width: 1000px) and (max-width:1400px){
+
+}
+@media only screen and (min-width: 1401){
+
+}
