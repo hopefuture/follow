@@ -121,7 +121,6 @@ body{
 	height: 100%;
 	position: relative;
 	background-size: cover;
-	background-attachment: fixed;
 	background-repeat: no-repeat;
 	color: white;
 }

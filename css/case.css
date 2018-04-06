@@ -59,7 +59,8 @@ body {
   font-size: 36px;
   color: #333333;
   text-align: center;
-  margin-bottom: 25px;
+  width: 900px;
+  margin: 0 auto 25px;
 }
 
 .case-item-desc {
