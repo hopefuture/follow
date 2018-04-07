@@ -71,6 +71,7 @@ body {
   color: #9b9b9b;
   letter-spacing: 0;
   line-height: 25px;
+  text-align: center;
 }
 
 .case-item-img {
@@ -83,3 +84,46 @@ body {
   margin: 50px auto;
   text-align: center;
 }
+
+#footer {
+  background-color: #1d222d;
+  color: #fff;
+}
+
+.footer-nav ul li a {
+  color: #fff;
+}
+
+.footer-nav ul li.nav-border {
+  border: 1px solid #323640;
+  border-width: 0 1px 0 1px;
+}
+
+.footer-service-title {
+  color: #8D9095;
+  font-family: PingFangSC-Light;
+  border-bottom: 1px solid #323640;
+}
+
+.footer-service-detail-list {
+  color: #4a4e57;
+  font-family: PingFangSC-Regular;
+}
+
+.footer-copright .copright1, .footer-copright .copright2 {
+  color: rgba(255,255,255,0.20);
+}
+
+.footer-contact-title {
+  font-family: PingFangSC-Regular;
+  color: #8D9095;
+}
+
+.footer-contact-way,
+.footer-contact-way a,
+.footer-contact-tel-fax-eamil,
+.footer-contact-traffic,
+.footer-contact-address {
+  color: #4A4E57;
+}
+

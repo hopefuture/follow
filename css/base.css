@@ -330,8 +330,8 @@ div.input .input-content input,div.input .input-content select{
 
 /*底部公共部分*/
 #footer{
-	width: 1280px;
-	margin: 60px auto;
+	margin: 60px auto 0;
+	padding: 60px;
 }
 .footer-nav{
 	font-size: 16px;
@@ -398,8 +398,14 @@ div.input .input-content input,div.input .input-content select{
 	color: #666;
 	font-size: 14px;
 }
+
+.footer-contact-icon {
+	display: flex;
+	align-items: center;
+}
+
 .footer-contact-icon img{
-	margin-right: 20px;
+	margin-right: 36px;
 }
 .footer-contact-title{
 	font-size: 14px;
